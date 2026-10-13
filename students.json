@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "name": "Aarav Sharma",
+      "roll_no": "101",
+      "attendance": {
+        "Day 1": "Present",
+        "Day 3": "Absent",
+        "Day 4": "Present",
+        "Day 5": "Present"
+      }
+    },
+    {
+      "name": "Priya Verma",
+      "roll_no": "102",
+      "attendance": {
+        "Day 1": "Present",
+        "Day 2": "Present",
+        "Day 3": "Present",
+        "Day 4": "Present",
+        "Day 5": "Absent"
+      }
+    },
+    {
+      "name": "Rahul Singh",
+      "roll_no": "103",
+      "attendance": {
+        "Day 1": "Present",
+        "Day 2": "Present",
+        "Day 3": "Present",
+        "Day 4": "Absent",
+        "Day 5": "Present"
+      }
+    },
+    {
+      "name": "Sneha Gupta",
+      "roll_no": "104",
+      "attendance": {
+        "Day 1": "Absent",
+        "Day 2": "Present",
+        "Day 3": "Present",
+        "Day 4": "Present",
+        "Day 5": "Present"
+      }
+    },
+    {
+      "name": "Arjun Kumar",
+      "roll_no": "105",
+      "attendance": {
+        "Day 1": "Present",
+        "Day 2": "Present",
+        "Day 3": "Absent",
+        "Day 4": "Absent",
+        "Day 5": "Present"
+      }
+    }
+  ]
+}
